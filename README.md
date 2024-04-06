@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankan-005
 - 👀 I’m interested in bio-informatics
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently learning bio-informatics
 - 📫 How to reach me ankanroy121212@gmail.com
 - 😄 Pronouns: he/him
 
